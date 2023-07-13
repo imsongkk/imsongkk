@@ -1,7 +1,13 @@
 ### 안녕하세요 😀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imsongkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsongkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsongkk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+## Tech Stack
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 <!--
 **imsongkk/imsongkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
